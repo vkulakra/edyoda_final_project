@@ -1,0 +1,5 @@
+name,phone,address,email,password,is_admin
+user,123456789,NA,user@gmail.com,user,N
+admin,987654321,HR,admin@gmail.com,admin,Y
+vicky,7777777777,kaithal,vicky@gmail.com,vikas,N
+vikas,7543234509,haryana,vikas@gmail.com,vikas,Y
